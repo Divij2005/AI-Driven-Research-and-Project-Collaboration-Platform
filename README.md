@@ -75,7 +75,7 @@ This creates an ecosystem where researchers can efficiently *connect, collaborat
 
 1. *Clone the repository*  
    ```bash
-   git clone https://github.com/Divij5/research-collab-platform.git
+   git clone https://github.com/Divij2005/research-collab-platform.git
    cd research-collab-platform
 
 
